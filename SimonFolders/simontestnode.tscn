@@ -1,0 +1,9 @@
+[gd_scene load_steps=2 format=3 uid="uid://pochn8cxgewq"]
+
+[ext_resource type="Texture2D" uid="uid://o3mpeiyryygr" path="res://SimonFolders/Bleadingtimeart/Special/Dammy.png" id="1_w45ry"]
+
+[node name="Simontestnode" type="Node2D"]
+
+[node name="Dammy" type="Sprite2D" parent="."]
+position = Vector2(72, 29)
+texture = ExtResource("1_w45ry")
